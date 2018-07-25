@@ -71,9 +71,9 @@ tags:
 
 - 测试效果：
 
-![post-builtin_res.png](img/post-builtin_res.png)
+![post-builtin_res.png](/img/post-builtin_res.png)
 
-![post-builtin_req.png](img/post-builtin_req.png)
+![post-builtin_req.png](/img/post-builtin_req.png)
 
 - **2. 外部实体声明**
 
@@ -81,7 +81,7 @@ tags:
 
 - 外部实体默认协议：
 
-![post-outprotocal.png](img/post-outprotocal.png)
+![post-outprotocal.png](/img/post-outprotocal.png)
 
 	<?xml version="1.0" encoding="utf-8"?> 
 	<!DOCTYPE xxe [
@@ -113,9 +113,9 @@ tags:
 
 - 测试效果：
 
-![post-parameter_req.png](img/post-parameter_req.png)
+![post-parameter_req.png](/img/post-parameter_req.png)
 
-![post-parameter_res.png](img/post-parameter_res.png)
+![post-parameter_res.png](/img/post-parameter_res.png)
 
 - **4. 引用公共实体**
 
@@ -136,9 +136,9 @@ tags:
 		</root>
 
 - 测试效果
-![post-XXEPayload1.png](img/post-XXEPayload1.png)
+![post-XXEPayload1.png](/img/post-XXEPayload1.png)
 
-![post-Response1.png](img/post-Response1.png)
+![post-Response1.png](/img/post-Response1.png)
 
 > Linux系统中，所有用户（包括系统管理员）的账号和密码都可以在/etc/passwd和/etc/shadow这两个文件中找到，（/etc/passwd只有系统管理员才可以修改的，其他用户可以查看，/etc/shadow其他用户看不了）
 > **/etc/passwd：**
