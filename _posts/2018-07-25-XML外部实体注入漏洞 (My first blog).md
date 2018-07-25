@@ -2,7 +2,7 @@
 layout:     post
 title:      XML外部实体注入漏洞 (My first blog)
 subtitle:   XML ExternalEntity Injection
-date:       2017-03-07
+date:       2018-07-25
 author:     Jarrett0x
 header-img: img/post-bg-debug.png
 catalog: true
